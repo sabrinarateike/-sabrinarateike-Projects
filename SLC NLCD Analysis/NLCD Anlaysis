@@ -1,5 +1,0 @@
-install.packages(“raster”)
-install.packages("terra")
-library(terra)
-library(raster)
-
